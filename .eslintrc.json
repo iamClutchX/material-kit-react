@@ -3,7 +3,7 @@
     "browser": true,
     "es2021": true
   },
-  "extends": ["ES7+ React/Redux/React-Native snippets"],
+  "extends": ["react"],
   "parserOptions": {
     "ecmaFeatures": {
       "jsx": true
